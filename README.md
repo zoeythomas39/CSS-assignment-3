@@ -127,7 +127,7 @@ The video [CSS media queries and responsive web design](https://www.youtube.com/
 
 2. At the bottom of the CSS file, write a media query for `screen` with one *breakpoint* (see Robbins chapter 17 and the video). The breakpoint will indicate the width at which the page changes. Choosing a good number for this breakpoint is part of your assignment. DO NOT choose the width of a specific device. Use the **Chrome Developer Tools** to find a suitable breakpoint measured in pixels (`px`). [This 4-minute video](https://www.youtube.com/watch?v=MLhfzhrzfvo) demonstrates exactly how to do that.
 
-3. In that media query, specify any changes that are needed to make the page look like the [small-screen example](https://raw.githubusercontent.com/macloo/CSS-assignment-3/master/screen_captures/phone-size-styled-sm.png) (your fonts will be different). You will certainly change values for `grid-template-columns`, `grid-template-rows` and `grid-template-areas`. To grade this, we will view your page in Chrome with Device Mode set to iPhone 6/7/8.
+3. In that media query, specify any changes that are needed to make the page look like the [small-screen example](https://raw.githubusercontent.com/macloo/CSS-assignment-3/master/screen_captures/phone-size-styled-sm.png) (your fonts will be different). You will certainly change values for `grid-template-columns`, `grid-template-rows` and `grid-template-areas`. To grade this, we will view your page in Chrome with Device Mode set to iPhone SE.
 
 4. Changes must also be made in the media query to `padding` for most grid items.
 
